@@ -1,6 +1,6 @@
 # Hi there, I'm Mohamed Samir 👋
 
-![Cool Animation](https://giphy.com/gifs/cool-cool-cool-dGVV5VYcASR8x8H7eG)
+![Greating GIF](https://media.tenor.com/images/4a3bc3f3b8489a19a3d4f3fe2a847ad1/tenor.gif)
 
 I'm a Penetration Tester and a second year computer science student.
 
