@@ -1,7 +1,5 @@
 # Hi there, I'm Mohamed Samir 👋
 
-![Greating GIF](https://media.tenor.com/images/4a3bc3f3b8489a19a3d4f3fe2a847ad1/tenor.gif)
-
 I'm a Penetration Tester and a second year computer science student.
 
 ## 🔧 My Certifications 🏅
