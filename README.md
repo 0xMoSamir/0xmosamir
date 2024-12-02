@@ -1,5 +1,7 @@
 # Hi there, I'm Mohamed Samir 👋
 
+![Cool Animation](https://giphy.com/gifs/cool-cool-cool-dGVV5VYcASR8x8H7eG)
+
 I'm a Penetration Tester and a second year computer science student.
 
 ## 🔧 My Certifications 🏅
