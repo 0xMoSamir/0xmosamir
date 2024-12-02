@@ -2,7 +2,7 @@
 
 I'm a Penetration Tester and a second year computer science student.
 
-## 🔧 My Certifications 🏅
+## My Certifications 🏅
 - Security+
 - CCNA
 - eJPT
